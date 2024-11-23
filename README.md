@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
- <b><a href="https://t.me/sb_reactionbot" target="/blank">VIP REACTION BOT</a>
+ <b><a href="https://t.me/KINGREACTION_ROBOT" target="/blank">BRANDED REACTION BOT</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -13,14 +13,15 @@
 
 <details><summary>Tap On Me For Bot Features</summary>
 
-- unlimited / custom reactions
-- Supports all type of emojies
-- work in both channels & groups & private
-- broadcast feature 
-- Cloning feature
-- Deploy To Koyeb, Heroku, Railway, Vps... etc
-- [Developer support](https://t.me/THE_VIP_BOY) 24x7
-</details>
+- ᴜɴʟɪᴍɪᴛᴇᴅ / ᴄᴜsᴛᴏᴍ ʀᴇᴀᴄᴛɪᴏɴs
+- sᴜᴘᴘᴏʀᴛs ᴀʟʟ ᴛʏᴘᴇ ᴏғ ᴇᴍᴏᴊɪᴇs
+- ᴡᴏʀᴋ ɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs & ɢʀᴏᴜᴘs & ᴘʀɪᴠᴀᴛᴇ
+- ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ 
+- ᴄʟᴏɴɪɴɢ ғᴇᴀᴛᴜʀᴇ
+- ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ, ʜᴇʀᴏᴋᴜ, ʀᴀɪʟᴡᴀʏ, ᴠᴘs... ᴇᴛᴄ
+- [ᴅᴇᴠᴇʟᴏᴘᴇʀ sᴜᴘᴘᴏʀᴛ](https://t.me/ll_KINGDOM_ll) 𝟸𝟺x𝟽
+</ᴅᴇᴛᴀɪʟs>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -58,7 +59,7 @@ for more commands check repo plugins...
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/THE-VIP-BOY-OP/VIP-REACTION-BOT">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/amritraj78/BRANDED-REACTION-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
@@ -73,13 +74,13 @@ for more commands check repo plugins...
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/THE-VIP-BOY-OP/VIP-REACTION-BOT"">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/amritraj78/BRANDED-REACTION-BOT"">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/THE-VIP-BOY-OP/VIP-REACTION-BOT">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/amritraj78/BRANDED-REACTION-BOT">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p> 
 <h3 align="center">
@@ -106,10 +107,10 @@ bash start
     
 
 ### Contact:
-<a href="https://t.me/THE_VIP_BOY_OP">
+<a href="https://t.me/ll_BRANDED_ll">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
-<a href="https://instagram.com/the.vip.boy">
+<a href="https://instagram.com/amrit_raj.9">
     <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
