@@ -5,8 +5,8 @@ from nexichat import nexichat
 @Client.on_message(filters.command("start"))
 async def start_message(client: Client, message: Message):
     await message.reply_text(
-        f"Hello {message.from_user.first_name}! 👋\n\n"
-        "I'm your Reaction Bot! I'll react to every message in groups, channels, and private chats with a 👍 emoji.\n\n"
-        "Add me to your group or channel and watch me in action! 🚀\n\n"
-        "**You can make your bot by /clone😁**"
+        f"ʜᴇʟʟᴏ {message.from_user.first_name}! 👋\n\n"
+        "ɪ'ᴍ ʏᴏᴜʀ ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ! ɪ'ʟʟ ʀᴇᴀᴄᴛ ᴛᴏ ᴇᴠᴇʀʏ ᴍᴇssᴀɢᴇ ɪɴ ɢʀᴏᴜᴘs, ᴄʜᴀɴɴᴇʟs, ᴀɴᴅ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛs ᴡɪᴛʜ ᴀ 👍 ᴇᴍᴏᴊɪ.\n\n"
+        "ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴡᴀᴛᴄʜ ᴍᴇ ɪɴ ᴀᴄᴛɪᴏɴ! 🚀\n\n"
+        "**ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ʙᴏᴛ ʙʏ /clone😁**"
     )
