@@ -4,7 +4,7 @@
  <b><a href="https://t.me/KINGREACTION_ROBOT" target="/blank">BRANDED REACTION BOT</a>
 </h1>
 
-<p align="center">🩷 Thanks for Being Here 🩷</p>
+<p align="center">🩷 ᴛʜᴀɴᴋs ғᴏʀ ʙᴇɪɴɢ ʜᴇʀᴇ 🩷</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -27,7 +27,7 @@
 
 ### VARIABLES
 
-<details><summary>Tap On Me ironment Variable</summary>
+<details><summary>ᴛᴀᴘ ᴏɴ ᴍᴇ ɪʀᴏɴᴍᴇɴᴛ ᴠᴀʀɪᴀʙʟᴇ</summary>
 
 * `BOT_TOKEN` - Get From [BotFather](https://telegram.me/BotFather)
 * `MONGO_URL` - For Save stats and sudo users.
@@ -39,7 +39,7 @@
 
 ## COMMANDS
 
-<b><details><summary>Tap On Me For Commands</summary>
+<b><details><summary>ᴛᴀᴘ ᴏɴ ᴍᴇ ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs</summary>
 ```
 start - Start The Bot
 help - To get help how to use bot
@@ -54,7 +54,7 @@ for more commands check repo plugins...
 <h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
 </h3>
-<b><details><summary>Tap On Me For deployment method</summary>
+<b><details><summary>ᴛᴀᴘ ᴏɴ ᴍᴇ ғᴏʀ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ</summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
@@ -88,7 +88,7 @@ for more commands check repo plugins...
 </h3>
 <p>
 <pre>
-git clone https://github.com/THE-VIP-BOY-OP/VIP-REACTION-BOT && cd VIP-REACTION-BOT
+git clone https://github.com/amritraj78/BRANDED-REACTION-BOT && cd BRANDED-REACTION-BOT
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit config.py with variables as given below then run bot
